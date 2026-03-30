@@ -208,3 +208,6 @@ __marimo__/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Project specific: Videos
+videos/
