@@ -6,7 +6,7 @@ Dieses Repository enthält meine Praktikumsabgabe im Modul *Image and Signal Pro
 
 Das Repository ist aktuell privat und unter folgendem Link erreichbar:
 
-https://github.com/BradonjaDev/REPOSITORY
+[github.com/BradonjaDev/ISP_notebook_sync](https://github.com/BradonjaDev/ISP_notebook_sync)
 
 ## Hinweis
 
