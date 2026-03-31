@@ -1,4 +1,4 @@
-# ISP Praktikumsabgabe – Motion Detection
+# ISP Praktikumsabgabe
 
 Dieses Repository enthält meine Praktikumsabgabe im Modul *Image and Signal Processing (ISP)*.
 
@@ -6,7 +6,7 @@ Dieses Repository enthält meine Praktikumsabgabe im Modul *Image and Signal Pro
 
 Das Repository ist aktuell privat und unter folgendem Link erreichbar:
 
-https://github.com/USERNAME/REPOSITORY
+https://github.com/BradonjaDev/REPOSITORY
 
 ## Hinweis
 
